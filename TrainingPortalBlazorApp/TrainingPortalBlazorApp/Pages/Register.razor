@@ -1,13 +1,28 @@
-﻿@page "/register"
-<h3>Register</h3>
-<label>User Id: </label>
-<input type="text" @bind="userId" />
-<br />
-<label>Password: </label>
-<input type="password" @bind="password" />
-<br />
-<label>Retype Password: </label>
-<input type="password" @bind="retypePassword" />
-<br />
-<p style="color: red">@ErrorMessage</p>
-<button class="btn btn-primary" @onclick="RegisterAsync">Login</button>
+@page "/register"
+
+<h2 class="mb-4 text-primary">Register</h2>
+
+<div class="card shadow-sm p-4" style="max-width: 400px;">
+    <div class="mb-3">
+        <label class="form-label">User ID</label>
+        <input type="text" class="form-control" @bind="userId" placeholder="Choose a user ID" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input type="password" class="form-control" @bind="password" placeholder="Enter password" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Retype Password</label>
+        <input type="password" class="form-control" @bind="retypePassword" placeholder="Confirm password" />
+    </div>
+
+    @if (!string.IsNullOrEmpty(ErrorMessage))
+    {
+        <div class="alert alert-danger">@ErrorMessage</div>
+    }
+
+    <button class="btn btn-success w-100" @onclick="RegisterAsync">📝 Register</button>
+</div>
+
