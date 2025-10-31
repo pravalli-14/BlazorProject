@@ -1,0 +1,41 @@
+﻿
+@page "/trainees/createtrainee/{trainingid}"
+
+<h2 class="mb-4 text-primary">Add New Trainee</h2>
+
+<EditForm Model="@trainee" OnValidSubmit="SaveTrainee" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Training ID</label>
+        <input class="form-control" value="@trainingid" readonly />
+        @* Optionally bind it to the model if needed *@
+        @* trainee.TrainingId = trainingid; *@
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Employee</label>
+        <InputSelect class="form-select" @bind-Value="trainee.EmpId">
+            <option value="">-- Select Employee --</option>
+            @foreach (var emp in EmployeeList)
+            {
+                <option value="@emp.EmpId">@emp.EmpName</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => trainee.EmpId)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Status</label>
+        <InputSelect class="form-select" @bind-Value="trainee.Status">
+            <option value="">-- Select Status --</option>
+            <option value="C">Complete</option>
+            <option value="I">Incomplete</option>
+        </InputSelect>
+        <ValidationMessage For="@(() => trainee.Status)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">💾 Save</button>
+    <a href="/trainees/@trainingid" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

@@ -1,0 +1,27 @@
+﻿
+@page "/training/details/{trainingid}"
+
+<h2 class="mb-4 text-primary">Training Details</h2>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Training ID</dt>
+            <dd class="col-sm-9">@training.TrainingId</dd>
+
+            <dt class="col-sm-3">Trainer ID</dt>
+            <dd class="col-sm-9">@training.TrainerId</dd>
+
+            <dt class="col-sm-3">Technology ID</dt>
+            <dd class="col-sm-9">@training.TechnologyId</dd>
+
+            <dt class="col-sm-3">Start Date</dt>
+            <dd class="col-sm-9">@training.StartDate</dd>
+
+            <dt class="col-sm-3">End Date</dt>
+            <dd class="col-sm-9">@training.EndDate</dd>
+        </dl>
+    </div>
+</div>
+
+<a href="/training" class="btn btn-outline-primary">⬅ Back to List</a>

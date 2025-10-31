@@ -1,0 +1,54 @@
+﻿
+@page "/training/create"
+
+<h2 class="mb-4 text-primary">Add New Training</h2>
+
+<EditForm Model="@training" OnValidSubmit="SaveTraining" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Training ID</label>
+        <InputText class="form-control" @bind-Value="training.TrainingId" />
+        <ValidationMessage For="@(() => training.TrainingId)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Trainer</label>
+        <InputSelect class="form-select" @bind-Value="training.TrainerId">
+            <option value="">-- Select Trainer --</option>
+            @foreach (var trainer in TrainerList)
+            {
+                <option value="@trainer.TrainerId">@trainer.TrainerName</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => training.TrainerId)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Technology</label>
+        <InputSelect class="form-select" @bind-Value="training.TechnologyId">
+            <option value="">-- Select Technology --</option>
+            @foreach (var tech in TechnologyList)
+            {
+                <option value="@tech.TechnologyId">@tech.TechnologyName</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => training.TechnologyId)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Start Date & Time</label>
+        <input type="datetime-local" class="form-control" @bind="training.StartDate" />
+        <ValidationMessage For="@(() => training.StartDate)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">End Date & Time</label>
+        <input type="datetime-local" class="form-control" @bind="training.EndDate" />
+        <ValidationMessage For="@(() => training.EndDate)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">💾 Save</button>
+    <a href="/training" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

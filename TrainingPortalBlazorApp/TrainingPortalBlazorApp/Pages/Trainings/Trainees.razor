@@ -1,0 +1,45 @@
+﻿@page "/trainees/{trainingid}"
+
+<h2 class="mb-4 text-primary">Trainees for Training ID: @trainingid</h2>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="text-secondary">List of Trainees</h4>
+    <a href="/trainees/createtrainee/@trainingid" class="btn btn-success">➕ Create New</a>
+</div>
+
+@if (trainees == null)
+{
+    <div class="alert alert-info">
+        <em>Loading trainee data...</em>
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Training ID</th>
+                <th>Employee ID</th>
+                <th>Status</th>
+                <th colspan="5" class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainee in trainees)
+            {
+                <tr>
+                    <td>@trainee.TrainingId</td>
+                    <td>@trainee.EmpId</td>
+                    <td>@trainee.Status</td>
+                    <td><a href="/trainees/details/@trainee.TrainingId/@trainee.EmpId" class="btn btn-info btn-sm">Details</a></td>
+                    <td><a href="/trainees/edit/@trainee.TrainingId/@trainee.EmpId" class="btn btn-warning btn-sm">Edit</a></td>
+                    <td><a href="/trainees/delete/@trainee.TrainingId/@trainee.EmpId" class="btn btn-danger btn-sm">Delete</a></td>
+                    <td><a href="/trainees/byemployee/@trainee.TrainingId/@trainee.EmpId" class="btn btn-secondary btn-sm">By Employee</a></td>
+                    <td><a href="/trainees/bystatus/@trainee.TrainingId/@trainee.Status" class="btn btn-secondary btn-sm">By Status</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="/training" class="btn btn-outline-primary mt-3">⬅ Back to Training List</a>

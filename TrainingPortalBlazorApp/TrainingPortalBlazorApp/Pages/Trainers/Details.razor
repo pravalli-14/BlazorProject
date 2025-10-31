@@ -1,0 +1,27 @@
+﻿
+@page "/trainer/details/{trainerid}"
+
+<h2 class="mb-4 text-primary">Trainer Details</h2>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Trainer ID</dt>
+            <dd class="col-sm-9">@trainer.TrainerId</dd>
+
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@trainer.TrainerName</dd>
+
+            <dt class="col-sm-3">Type</dt>
+            <dd class="col-sm-9">@trainer.TrainerType</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@trainer.TrainerEmail</dd>
+
+            <dt class="col-sm-3">Phone No</dt>
+            <dd class="col-sm-9">@trainer.TrainerPhoneNo</dd>
+        </dl>
+    </div>
+</div>
+
+<a href="/trainer" class="btn btn-outline-primary">⬅ Back to List</a>

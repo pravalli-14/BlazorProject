@@ -1,0 +1,28 @@
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.deps.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.runtimeconfig.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.csproj.AssemblyReference.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.AssemblyInfoInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.AssemblyInfo.cs
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\refint\TrainingLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.genruntimeconfig.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainingLibrary\obj\Debug\net8.0\ref\TrainingLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.deps.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.runtimeconfig.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\bin\Debug\net8.0\TrainingLibrary.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.csproj.AssemblyReference.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.AssemblyInfoInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.AssemblyInfo.cs
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.csproj.CoreCompileInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\refint\TrainingLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\TrainingLibrary.genruntimeconfig.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingLibrary\obj\Debug\net8.0\ref\TrainingLibrary.dll

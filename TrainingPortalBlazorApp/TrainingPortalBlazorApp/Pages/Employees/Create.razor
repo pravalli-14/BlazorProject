@@ -1,0 +1,42 @@
+﻿
+@page "/employees/create"
+
+<h2 class="mb-4 text-primary">Add New Employee</h2>
+
+<EditForm Model="@employee" OnValidSubmit="SaveEmployee" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Emp ID</label>
+        <InputText class="form-control" @bind-Value="employee.EmpId" />
+        <ValidationMessage For="@(() => employee.EmpId)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="employee.EmpName" />
+        <ValidationMessage For="@(() => employee.EmpName)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Designation</label>
+        <InputText class="form-control" @bind-Value="employee.Designation" />
+        <ValidationMessage For="@(() => employee.Designation)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <InputText class="form-control" @bind-Value="employee.EmpEmail" />
+        <ValidationMessage For="@(() => employee.EmpEmail)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Phone No</label>
+        <InputText class="form-control" @bind-Value="employee.EmpPhoneNo" />
+        <ValidationMessage For="@(() => employee.EmpPhoneNo)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">💾 Save</button>
+    <a href="/employees" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

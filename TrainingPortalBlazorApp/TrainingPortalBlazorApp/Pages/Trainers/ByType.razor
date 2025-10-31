@@ -1,0 +1,41 @@
+﻿@page "/trainer/bytype/{type}"
+
+<h2 class="mb-4 text-primary">Trainers - Type: @type</h2>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="text-secondary">List of Trainers</h4>
+    <a href="/trainer" class="btn btn-outline-primary">⬅ Back to Trainer List</a>
+</div>
+
+@if (trainers == null)
+{
+    <div class="alert alert-warning">
+        <em>No trainers of this type.</em>
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Trainer ID</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Email</th>
+                <th>Phone No</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainer in trainers)
+            {
+                <tr>
+                    <td>@trainer.TrainerId</td>
+                    <td>@trainer.TrainerName</td>
+                    <td>@trainer.TrainerType</td>
+                    <td>@trainer.TrainerEmail</td>
+                    <td>@trainer.TrainerPhoneNo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

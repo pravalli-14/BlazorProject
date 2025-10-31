@@ -1,0 +1,166 @@
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\appsettings.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.staticwebassets.endpoints.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.exe
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.deps.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.runtimeconfig.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\bin\Debug\net8.0\EmployeeLibrary.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.csproj.AssemblyReference.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.AssemblyInfoInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.AssemblyInfo.cs
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeWebAPI.styles.css
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\Employee.1CF70BBC.Up2Date
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\refint\EmployeeWebAPI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.genruntimeconfig.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\ref\EmployeeWebAPI.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.sourcelink.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.staticwebassets.endpoints.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.exe
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.deps.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.runtimeconfig.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeWebAPI.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\EmployeeLibrary.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.csproj.AssemblyReference.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.AssemblyInfoInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.AssemblyInfo.cs
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeWebAPI.styles.css
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\Employee.1CF70BBC.Up2Date
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\refint\EmployeeWebAPI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\EmployeeWebAPI.genruntimeconfig.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\obj\Debug\net8.0\ref\EmployeeWebAPI.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\EmployeeWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

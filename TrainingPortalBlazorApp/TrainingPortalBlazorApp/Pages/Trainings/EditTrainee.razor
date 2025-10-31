@@ -1,0 +1,32 @@
+﻿
+@page "/trainees/edit/{trainingid}/{empid}"
+
+<h2 class="mb-4 text-primary">Update Trainee</h2>
+
+<EditForm Model="@trainee" OnValidSubmit="UpdateTrainee" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Training ID</label>
+        <input class="form-control" value="@trainee.TrainingId" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Employee ID</label>
+        <input class="form-control" value="@trainee.EmpId" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Status</label>
+        <InputSelect class="form-select" @bind-Value="trainee.Status">
+            <option value="">-- Select Status --</option>
+            <option value="C">Complete</option>
+            <option value="I">Incomplete</option>
+        </InputSelect>
+        <ValidationMessage For="@(() => trainee.Status)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">🔄 Update</button>
+    <a href="/trainees/@trainingid" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

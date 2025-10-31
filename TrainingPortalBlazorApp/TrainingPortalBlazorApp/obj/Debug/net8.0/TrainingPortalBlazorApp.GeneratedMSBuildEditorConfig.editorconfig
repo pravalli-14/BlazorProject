@@ -1,0 +1,177 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TrainingPortalBlazorApp
+build_property.RootNamespace = TrainingPortalBlazorApp
+build_property.ProjectDir = C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingPortalBlazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainingPortalBlazorApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Employees/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Employees/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Employees/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Employees/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Employees/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/ByLevel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXEJ5TGV2ZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Technologies/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5vbG9naWVzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/ByType.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcQnlUeXBlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainers/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lcnNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/ByEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEJ5RW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/ByStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEJ5U3RhdHVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/ByTechnology.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEJ5VGVjaG5vbG9neS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/ByTrainer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEJ5VHJhaW5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/CreateTrainee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXENyZWF0ZVRyYWluZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/DeleteTrainee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXERlbGV0ZVRyYWluZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/EditTrainee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEVkaXRUcmFpbmVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/TraineeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXFRyYWluZWVEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Pages/Trainings/Trainees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdzXFRyYWluZWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-15lh07xhci
+
+[C:/Blazor/018426_Blazor_project/TrainingPortalBlazorApp/TrainingPortalBlazorApp/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v4qidiaifi

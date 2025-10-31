@@ -1,0 +1,48 @@
+﻿@page "/training"
+
+<h2 class="mb-4 text-primary">Training Schedule</h2>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="text-secondary">List of Trainings</h4>
+    <a href="/training/create" class="btn btn-success">➕ Create New</a>
+</div>
+
+@if (trainings == null)
+{
+    <div class="alert alert-info">
+        <em>Loading training data...</em>
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Training ID</th>
+                <th>Trainer ID</th>
+                <th>Technology ID</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th colspan="6" class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var training in trainings)
+            {
+                <tr>
+                    <td>@training.TrainingId</td>
+                    <td>@training.TrainerId</td>
+                    <td>@training.TechnologyId</td>
+                    <td>@training.StartDate.ToShortDateString()</td>
+                    <td>@training.EndDate.ToShortDateString()</td>
+                    <td><a href="/training/details/@training.TrainingId" class="btn btn-info btn-sm">Details</a></td>
+                    <td><a href="/training/edit/@training.TrainingId" class="btn btn-warning btn-sm">Edit</a></td>
+                    <td><a href="/training/delete/@training.TrainingId" class="btn btn-danger btn-sm">Delete</a></td>
+                    <td><a href="/training/bytrainer/@training.TrainerId" class="btn btn-secondary btn-sm">By Trainer</a></td>
+                    <td><a href="/training/bytechnology/@training.TechnologyId" class="btn btn-secondary btn-sm">By Technology</a></td>
+                    <td><a href="/trainees/@training.TrainingId" class="btn btn-primary btn-sm">Trainees</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

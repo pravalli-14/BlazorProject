@@ -1,0 +1,45 @@
+﻿ @page "/employees"
+
+<h2 class="mb-4 text-primary">Employee Directory</h2>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="text-secondary">List of Employees</h4>
+    <a href="/employees/create" class="btn btn-success">➕ Create New</a>
+</div>
+
+@if (employees == null)
+{
+    <div class="alert alert-info">
+        <em>Loading employee data...</em>
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Emp Id</th>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Email</th>
+                <th>Phone No</th>
+                <th colspan="3" class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employees)
+            {
+                <tr>
+                    <td>@employee.EmpId</td>
+                    <td>@employee.EmpName</td>
+                    <td>@employee.Designation</td>
+                    <td>@employee.EmpEmail</td>
+                    <td>@employee.EmpPhoneNo</td>
+                    <td><a href="/employees/details/@employee.EmpId" class="btn btn-info btn-sm">Details</a></td>
+                    <td><a href="/employees/edit/@employee.EmpId" class="btn btn-warning btn-sm">Edit</a></td>
+                    <td><a href="/employees/delete/@employee.EmpId" class="btn btn-danger btn-sm">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+} 

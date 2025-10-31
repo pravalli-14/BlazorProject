@@ -1,0 +1,40 @@
+﻿
+@page "/technology/edit/{techid}"
+
+<h2 class="mb-4 text-primary">Update Technology</h2>
+
+<EditForm Model="@technology" OnValidSubmit="UpdateTechnology" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Technology ID</label>
+        <input class="form-control" value="@technology.TechnologyId" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="technology.TechnologyName" />
+        <ValidationMessage For="@(() => technology.TechnologyName)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Level</label>
+        <InputSelect class="form-select" @bind-Value="technology.Level">
+            <option value="">-- Select Level --</option>
+            <option value="B">Beginner</option>
+            <option value="I">Intermediate</option>
+            <option value="A">Advanced</option>
+        </InputSelect>
+        <ValidationMessage For="@(() => technology.Level)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Duration (in hours)</label>
+        <InputNumber class="form-control" @bind-Value="technology.Duration" />
+        <ValidationMessage For="@(() => technology.Duration)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">🔄 Update</button>
+    <a href="/technology" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

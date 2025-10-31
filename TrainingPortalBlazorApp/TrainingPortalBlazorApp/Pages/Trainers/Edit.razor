@@ -1,0 +1,45 @@
+﻿
+@page "/trainer/edit/{trainerid}"
+
+<h2 class="mb-4 text-primary">Edit Trainer</h2>
+
+<EditForm Model="@trainer" OnValidSubmit="UpdateTrainer" class="needs-validation">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label class="form-label">Trainer ID</label>
+        <input class="form-control" value="@trainer.TrainerId" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="trainer.TrainerName" />
+        <ValidationMessage For="@(() => trainer.TrainerName)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Type</label>
+        <InputSelect class="form-select" @bind-Value="trainer.TrainerType">
+            <option value="">-- Select Type --</option>
+            <option value="E">External</option>
+            <option value="I">Internal</option>
+        </InputSelect>
+        <ValidationMessage For="@(() => trainer.TrainerType)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <InputText class="form-control" @bind-Value="trainer.TrainerEmail" />
+        <ValidationMessage For="@(() => trainer.TrainerEmail)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Phone No</label>
+        <InputText class="form-control" @bind-Value="trainer.TrainerPhoneNo" />
+        <ValidationMessage For="@(() => trainer.TrainerPhoneNo)" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-success me-2">🔄 Update</button>
+    <a href="/trainer" class="btn btn-outline-primary">⬅ Back to List</a>
+</EditForm>

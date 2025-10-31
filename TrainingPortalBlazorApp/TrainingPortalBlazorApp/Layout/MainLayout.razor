@@ -1,0 +1,47 @@
+﻿@inherits LayoutComponentBase
+@using TrainingPortalBlazorApp.Authentication
+@inject CustomAuthStateProvider customAuthStateProvider
+@inject NavigationManager NavManager
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+    <main>
+        <div class="top-row px-4">
+            <AuthorizeView>
+                <Authorizing>
+                    <span class="text-white">Checking authentication state...</span>
+                </Authorizing>
+                <NotAuthorized>
+                    <button @onclick="RegisterAsync">Register</button>
+                    &nbsp; &nbsp;
+                    <button @onclick="LoginAsync">Login</button>
+                </NotAuthorized>
+                <Authorized>
+                    <h5>Welcome, @context.User.Identity.Name</h5>
+                    &nbsp; &nbsp;
+                    <button @onclick="LogoutAsync">Logout</button>
+                </Authorized>
+            </AuthorizeView>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+@code {
+    private async Task LogoutAsync()
+    {
+        await customAuthStateProvider.LogoutAsync();
+    }
+    private async Task LoginAsync()
+    {
+        NavManager.NavigateTo("/login");
+    }
+    private async Task RegisterAsync()
+    {
+        NavManager.NavigateTo("/register");
+    }
+}

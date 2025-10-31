@@ -1,0 +1,28 @@
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.deps.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.runtimeconfig.json
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.csproj.AssemblyReference.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.AssemblyInfoInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.AssemblyInfo.cs
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\refint\TrainerLibrary.dll
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.pdb
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.genruntimeconfig.cache
+C:\DotNet\018426_Pravallika_Kamatham_Final_Project\Zelis Training Portal using DotNet FullStack and Azure\TrainerLibrary\obj\Debug\net8.0\ref\TrainerLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.deps.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.runtimeconfig.json
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\bin\Debug\net8.0\TrainerLibrary.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.csproj.AssemblyReference.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.AssemblyInfoInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.AssemblyInfo.cs
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.csproj.CoreCompileInputs.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\refint\TrainerLibrary.dll
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.pdb
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\TrainerLibrary.genruntimeconfig.cache
+C:\Blazor\018426_Blazor_project\TrainingPortalBlazorApp\TrainerLibrary\obj\Debug\net8.0\ref\TrainerLibrary.dll

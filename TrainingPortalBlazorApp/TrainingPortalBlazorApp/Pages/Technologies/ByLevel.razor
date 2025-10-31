@@ -1,0 +1,39 @@
+﻿@page "/technology/bylevel/{level}"
+
+<h2 class="mb-4 text-primary">Technologies - Level: @level</h2>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="text-secondary">List of Technologies</h4>
+    <a href="/technology" class="btn btn-outline-primary">⬅ Back to Technology List</a>
+</div>
+
+@if (technologies == null)
+{
+    <div class="alert alert-info">
+        <em>Loading technology data...</em>
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Technology ID</th>
+                <th>Name</th>
+                <th>Level</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in technologies)
+            {
+                <tr>
+                    <td>@tech.TechnologyId</td>
+                    <td>@tech.TechnologyName</td>
+                    <td>@tech.Level</td>
+                    <td>@tech.Duration</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

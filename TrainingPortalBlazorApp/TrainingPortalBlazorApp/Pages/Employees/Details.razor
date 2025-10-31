@@ -1,0 +1,27 @@
+﻿
+@page "/employees/details/{eid}"
+
+<h2 class="mb-4 text-primary">Employee Details</h2>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Emp ID</dt>
+            <dd class="col-sm-9">@employee.EmpId</dd>
+
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@employee.EmpName</dd>
+
+            <dt class="col-sm-3">Designation</dt>
+            <dd class="col-sm-9">@employee.Designation</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@employee.EmpEmail</dd>
+
+            <dt class="col-sm-3">Phone No</dt>
+            <dd class="col-sm-9">@employee.EmpPhoneNo</dd>
+        </dl>
+    </div>
+</div>
+
+<a href="/employees" class="btn btn-outline-primary">⬅ Back to List</a>

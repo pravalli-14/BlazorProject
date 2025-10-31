@@ -1,0 +1,24 @@
+﻿
+@page "/technology/details/{techid}"
+
+<h2 class="mb-4 text-primary">Technology Details</h2>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Technology ID</dt>
+            <dd class="col-sm-9">@technology.TechnologyId</dd>
+
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@technology.TechnologyName</dd>
+
+            <dt class="col-sm-3">Level</dt>
+            <dd class="col-sm-9">@technology.Level</dd>
+
+            <dt class="col-sm-3">Duration</dt>
+            <dd class="col-sm-9">@technology.Duration</dd>
+        </dl>
+    </div>
+</div>
+
+<a href="/technology" class="btn btn-outline-primary">⬅ Back to List</a>

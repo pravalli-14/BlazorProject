@@ -1,0 +1,12 @@
+﻿@page "/login"
+
+<h3>Login</h3>
+
+<label>User Id: </label>
+<input type="text" @bind="userId" />
+<br />
+<label>Password: </label>
+<input type="password" @bind="password" />
+<br />
+<p style="color: red">@ErrorMessage</p>
+<button class="btn btn-primary" @onclick="LoginAsync">Login</button>
