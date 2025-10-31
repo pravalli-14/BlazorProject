@@ -1,12 +1,22 @@
 ﻿@page "/login"
 
-<h3>Login</h3>
+<h2 class="mb-4 text-primary">Login</h2>
 
-<label>User Id: </label>
-<input type="text" @bind="userId" />
-<br />
-<label>Password: </label>
-<input type="password" @bind="password" />
-<br />
-<p style="color: red">@ErrorMessage</p>
-<button class="btn btn-primary" @onclick="LoginAsync">Login</button>
+<div class="card shadow-sm p-4" style="max-width: 400px;">
+    <div class="mb-3">
+        <label class="form-label">User ID</label>
+        <input type="text" class="form-control" @bind="userId" placeholder="Enter your user ID" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input type="password" class="form-control" @bind="password" placeholder="Enter your password" />
+    </div>
+
+    @if (!string.IsNullOrEmpty(ErrorMessage))
+    {
+        <div class="alert alert-danger">@ErrorMessage</div>
+    }
+
+    <button class="btn btn-primary w-100" @onclick="LoginAsync">🔐 Login</button>
+</div>
